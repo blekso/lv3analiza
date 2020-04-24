@@ -1,0 +1,7 @@
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv3analiza\lv3analiza\bin\Debug\lv3analiza.exe.config
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv3analiza\lv3analiza\bin\Debug\lv3analiza.exe
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv3analiza\lv3analiza\bin\Debug\lv3analiza.pdb
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv3analiza\lv3analiza\obj\Debug\lv3analiza.csprojAssemblyReference.cache
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv3analiza\lv3analiza\obj\Debug\lv3analiza.csproj.CoreCompileInputs.cache
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv3analiza\lv3analiza\obj\Debug\lv3analiza.exe
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv3analiza\lv3analiza\obj\Debug\lv3analiza.pdb
